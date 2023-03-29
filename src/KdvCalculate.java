@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class KdvCalculate {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         double amount,kdvRate=0.18;
         System.out.print("Urun tutarini giriniz:");
